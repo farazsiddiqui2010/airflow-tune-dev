@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  airflow:
+  - apiVersion: v1
+    appVersion: 2.0.1
+    created: "2021-06-01T22:51:50.921707+05:00"
+    description: the community-maintained descendant of the stable/airflow helm chart
+      - focused on ease-of-use
+    digest: 390e5d29b0d0229419ff9d9692cfb6c3bbffed5c8f42cdd880b60039740c4bcb
+    home: https://airflow.apache.org/
+    icon: https://airflow.apache.org/_images/pin_large.png
+    keywords:
+    - airflow
+    - dag
+    - workflow
+    maintainers:
+    - name: thesuperzapper
+      url: https://github.com/thesuperzapper
+    - name: gsemet
+      url: https://github.com/gsemet
+    name: airflow
+    sources:
+    - https://github.com/airflow-helm/charts/tree/main/charts/airflow
+    urls:
+    - https://github.com/farazsiddiqui2010/airflow-tune-dev/releases/download/airflow-8.1.3/airflow-8.1.3.tgz
+    version: 8.1.3
+generated: "2021-06-01T22:51:50.921743+05:00"
