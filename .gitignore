@@ -41,3 +41,4 @@ Sessionx.vim
 
 ## Chart Dependencies
 **/charts/*.tgz
+.deploy
